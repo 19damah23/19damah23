@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muchamadagushermawan
+- 👋 Hi, I’m Muchamad Agus Hermawan
 - 👀 I'm interested in programming
 - 🌱 I’m currently learning back-end development.
 - 💞️ I’m looking to collaborate on web development
